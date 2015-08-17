@@ -4,12 +4,10 @@
 
 * Breakfast, lunch, dinner, and ongoing snacks are provided
 
-* Use Github to coordinate projects
 
+* Use Github to coordinate projects
    * Each project will have own source control, wiki, issue tracker, chat (via gitter).
-   
    *  Projects will be aggregated under an NDNcomm Github organization
-   
    * Expect work to wrap up Sunday evening so participants can enjoy NDNcomm.
 
 
@@ -19,7 +17,14 @@
       * We anticipate overlap between hackathon and poster session participants.
 
 
-*   Prizes TBD
+* Judging criteria includes:
+  * creativity
+  * project requirement satisfaction
+  * contribution to the advancement of NDN
+  * NDN idiomaticness
+
+
+*   Prizes TBD  
 
 ## Action Items BEFORE the Hackathon
 
@@ -39,6 +44,7 @@
 
 * Hack!
    * Focus on proof of concept and demonstrating feasibility rather than polish.
+   * Documentation and tutorial projects should include running example code.
 
 
 * Create web page explaining project at `<project-name>.github.io` using [Github Pages](https://pages.github.com).
