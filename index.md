@@ -1,5 +1,9 @@
 # NDNcomm 2015 Hackathon Participant Guide
 
+[NDNcomm website](http://www.caida.org/workshops/ndn/1509/)
+
+[Call for Projects](https://docs.google.com/document/d/1zoqb8_IzEirISS5vJqUB2qpBlq8vFXE_T6DLwS1gdyw/edit)
+
 ## Overview
 
 * Breakfast, lunch, dinner, and ongoing snacks are provided
