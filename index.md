@@ -51,7 +51,7 @@
    * Documentation and tutorial projects should include running example code.
 
 
-* Create web page explaining project at `<project-name>.github.io` using [Github Pages](https://pages.github.com).
+* Create web page explaining project at `ndncomm.github.io/<project-name>` using [Github Pages](https://pages.github.com).
    * Include: team members, problem statement(s), approach(es), what does and does not work, future TODOs, and opportunities for future collaboration.
    * Documentation projects should describe the initial state, what kinds changes were made (e.g. how-tos guides, enhanced code comments, improved developer guides, etc.).
 
