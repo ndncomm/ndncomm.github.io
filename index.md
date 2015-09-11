@@ -9,9 +9,9 @@
 * Breakfast, lunch, dinner, and ongoing snacks are provided
 
 
-* Use Github to coordinate projects
+* Use GitHub to coordinate projects
    * Each project will have own source control, wiki, issue tracker, chat (via gitter).
-   *  Projects will be aggregated under an NDNcomm Github organization
+   *  Projects will be aggregated under an NDNcomm GitHub organization
    * Expect work to wrap up Sunday evening so participants can enjoy NDNcomm.
 
 
@@ -33,17 +33,17 @@
 ## Action Items BEFORE the Hackathon
 
 
-* Please email your Github ID to `ndncomm2015-hackathon@named-data.net`
+* Please email your GitHub ID to `ndncomm2015-hackathon@named-data.net`
 
 
 ## Action Items DURING the Hackathon
 
 
-* Create a [Github](https://www.github.com) repository
+* Create a [GitHub](https://www.github.com) repository
 
 
 * Connect [Gitter](https://www.gitter.im) to your repository
-   * Gitter is a chatroom that can be associated with your Github repository. This should help you and your team share information. Gitter has a number of nice features like Github markdown support.
+   * Gitter is a chatroom that can be associated with your GitHub repository. This should help you and your team share information. Gitter has a number of nice features like GitHub markdown support.
 
 
 * Hack!
@@ -51,7 +51,7 @@
    * Documentation and tutorial projects should include running example code.
 
 
-* Create web page explaining project at `ndncomm.github.io/<project-name>` using [Github Pages](https://pages.github.com).
+* Create web page explaining project at `ndncomm.github.io/<project-name>` using [GitHub Pages](https://pages.github.com).
    * Include: team members, problem statement(s), approach(es), what does and does not work, future TODOs, and opportunities for future collaboration.
    * Documentation projects should describe the initial state, what kinds changes were made (e.g. how-tos guides, enhanced code comments, improved developer guides, etc.).
 
