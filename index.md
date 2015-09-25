@@ -4,16 +4,20 @@
 
 [Call for Projects](https://docs.google.com/document/d/1zoqb8_IzEirISS5vJqUB2qpBlq8vFXE_T6DLwS1gdyw/edit)
 
+## Announcements
+
+* **9/24:** Please be present for the project pitches (10am on Saturday) and the following team formation. Projects with only one participant at time of formation will be cancelled to consolidate hacker effort.
+
 ## Overview
 
 * Breakfast, lunch, dinner, and ongoing snacks are provided
 
+* All participants will choose one project to work on. Projects with only 1 participant will be cancelled.
 
 * Use GitHub to coordinate projects
    * Each project will have own source control, wiki, issue tracker, chat (via gitter).
    *  Projects will be aggregated under an NDNcomm GitHub organization
    * Expect work to wrap up Sunday evening so participants can enjoy NDNcomm.
-
 
 * Projects will be presented at 2 poster session-style events
    * Sunday: Hackathon judging and awards
@@ -28,7 +32,7 @@
   * NDN idiomaticness
 
 
-*   Prizes TBD  
+*   Prizes TBD
 
 ## Action Items BEFORE the Hackathon
 
@@ -87,9 +91,10 @@ This is intentionally sparse because most time will be spent hacking. Please tak
 * Hack
 * Lunch
 * Hack
-* Dinner and presentation preparation (6pm) (official end of hacking)
-* Presentation, judging, and award presentation (6:30pm - 7:30pm)
-* Close (8pm)
+* Project presentation and judging (5:30pm - 6:30pm)
+* Dinner (6:30pm - 8:30pm)
+* Award presentations (8:30pm - 9pm)
+* Close (9pm)
 
 
 ### Monday, 9/28
