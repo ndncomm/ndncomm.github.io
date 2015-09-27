@@ -5,8 +5,8 @@
 [Call for Projects](https://docs.google.com/document/d/1zoqb8_IzEirISS5vJqUB2qpBlq8vFXE_T6DLwS1gdyw/edit)
 
 ## Announcements
+* **9/26:** Please follow this guide to create a [GitHub project page](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) for your project.
 
-* **9/24:** Please be present for the project pitches (10am on Saturday) and the following team formation. Projects with only one participant at time of formation will be cancelled to consolidate hacker effort.
 
 ## Overview
 
