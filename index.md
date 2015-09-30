@@ -4,8 +4,35 @@
 
 [Call for Projects](https://docs.google.com/document/d/1zoqb8_IzEirISS5vJqUB2qpBlq8vFXE_T6DLwS1gdyw/edit)
 
-## Announcements
-* **9/26:** Please follow this guide to create a [GitHub project page](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) for your project.
+
+
+## Hackathon Results
+
+### Best of Hackathon
+
+Congratulations to the **Demonstrate NDN over Bluetooth LE on the Arduino** team for winning the *Best of Hackathon* prize!
+
+### Accepted Projects
+
+(Projects selected by participants in **bold**.)
+
+* NDN Applications Certificate Issuing Service
+* Two-factor Authentication with NDN Certificates and Trust Model
+* **Access Control with NFN**
+* World Wide Web over NDN
+* Certificate Issue for Traditional Web Applications
+* Create Pilot Energy Dashboard using NDN-JS
+* **Adopt Mini-NDN for Testing Any Project Based on NFD**
+* **NFD on Windows**
+* **New Cache Decision Policies for NFD**
+* NFD Web Control panel
+* Clock Setup for Devices without Hardware RTC
+* **Port NDN-RTC to Ubuntu Linux**
+* Provide Local Prefix Discovery in NDN-CCL
+* **Demonstrate NDN over Bluetooth LE on the Arduino**
+* **Hack in NDNS Code to be Simulated using the Latest ndnSIM**
+
+
 
 
 ## Overview
